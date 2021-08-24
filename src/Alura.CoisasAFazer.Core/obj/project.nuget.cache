@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VNHynWLRg9l3ubyc8mxtNNNnaeiHAz2Ic0JSg7F53b1fIQAD81p7qR7xXvK6mJBM+jKLMH0sJSJ4QF2jjSZRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\Downloads\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
